@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+data/knowledge/*.json
+!data/knowledge/.gitkeep
+data/documents/*
+!data/documents/.gitkeep
+data/sessions/*
+!data/sessions/.gitkeep
+.venv/
